@@ -5,6 +5,8 @@ from django.shortcuts import render
 import speech_recognition as sr
 from .models import Video
 
+
+
 def transcribe_video(request):
     if request.method == 'POST':
         video_url = request.POST['video_url']
