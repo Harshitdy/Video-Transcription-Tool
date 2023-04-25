@@ -41,7 +41,7 @@ this is a web application using Python, Django, and a speech recognition library
  http://127.0.0.1:8000
  ```
  
- ###. 8 Enter your Video Url which you want to transcribe.
+ ### 8. Enter your Video Url which you want to transcribe.
  
  ![image](/images/Screenshot1.png)
  
