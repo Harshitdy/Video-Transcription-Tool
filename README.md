@@ -7,7 +7,7 @@ this is a web application using Python, Django, and a speech recognition library
 
 ### 1. Clone the repository
  ```
- https://github.com/Harshitdy/Video-Transcription-Tool.git
+ git clone https://github.com/Harshitdy/Video-Transcription-Tool.git
  ```
  
  ### 2. Create a virtual environment.
