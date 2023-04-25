@@ -6,6 +6,9 @@ class Video(models.Model):
     transcript = models.TextField(blank=True, null=True)
 
 
+    
+
+
 
 # username = valartech
 # password = Valar
